@@ -1,0 +1,1 @@
+&{template:default} {{name=Open Hand Techniques}}{{ Description=Knock Prone (Dex), Push 15ft (Str), Lose Reaction }} {{ Ki Save DC=[[8+@{selected|pb}+@{selected|wisdom_mod} ]] }}

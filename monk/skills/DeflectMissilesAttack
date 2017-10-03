@@ -1,0 +1,6 @@
+&{template:default} {{name=Deflect Missiles}} {{Description=After catching a missile with Deflect Missiles, you may spend ***1 Ki*** to make a ranged attack.}} {{Check=[[1d20+@{selected|dexterity_mod}+@{selected|pb}]] [[1d20+@{selected|dexterity_mod}+@{selected|pb}]] vs AC}} {{Damage=?{Damage Die|
+D4,     [[ 1d4                                         +@{selected|dexterity_mod}  ]] |
+D6,     [[ 1d6                                         +@{selected|dexterity_mod}  ]] |
+D8,     [[ 1d8                                         +@{selected|dexterity_mod}  ]] |
+D10,   [[ 1d10                                       +@{selected|dexterity_mod}  ]] |
+Other, [[?{Custom Die|0} +@{selected|dexterity_mod}  ]] } }}

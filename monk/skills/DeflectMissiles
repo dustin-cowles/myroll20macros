@@ -1,0 +1,1 @@
+&{template:default} {{name=Deflect Missiles}} {{Description=Use your reaction to reduce ranged attack damage by [[1d10+@{selected|dexterity_mod}+@{selected|Level}]], if damage is reduced to ***0***, catch the missile.}}
