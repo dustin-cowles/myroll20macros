@@ -3,4 +3,4 @@ D4,     [[ 1d4                                         +@{selected|dexterity_mod
 D6,     [[ 1d6                                         +@{selected|dexterity_mod}  ]] |
 D8,     [[ 1d8                                         +@{selected|dexterity_mod}  ]] |
 D10,   [[ 1d10                                       +@{selected|dexterity_mod}  ]] |
-Other, [[?{Custom Die|0} +@{selected|dexterity_mod}  ]] } }}
+Other, [[?{Custom Die&#124;0&#125; +@{selected|dexterity_mod}  ]] } }}
